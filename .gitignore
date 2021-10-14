@@ -1,0 +1,10 @@
+flarum/storage/logs
+flarum/app
+flarum/public
+flarum/vendor
+flarum/extensions/.cache
+flarum/assets
+dbdumps
+._*
+*.log
+.env

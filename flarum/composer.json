@@ -1,0 +1,76 @@
+{
+    "name": "flarum/flarum",
+    "description": "Delightfully simple forum software.",
+    "type": "project",
+    "keywords": [
+        "forum",
+        "discussion"
+    ],
+    "homepage": "https://flarum.org/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Flarum",
+            "email": "info@flarum.org",
+            "homepage": "https://flarum.org/team"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/flarum/core/issues",
+        "source": "https://github.com/flarum/flarum",
+        "docs": "https://flarum.org/docs/"
+    },
+    "require": {
+        "clarkwinkelmann/flarum-ext-author-change": "^1.0",
+        "clarkwinkelmann/flarum-ext-create-user-modal": "^1.3",
+        "davwheat/custom-sidenav-links": "^1.0",
+        "flarum-lang/chinese-simplified": "v1.0.4.1009",
+        "flarum/approval": "*",
+        "flarum/bbcode": "*",
+        "flarum/core": "^1.0",
+        "flarum/emoji": "*",
+        "flarum/flags": "*",
+        "flarum/lang-english": "*",
+        "flarum/likes": "*",
+        "flarum/lock": "*",
+        "flarum/markdown": "*",
+        "flarum/mentions": "*",
+        "flarum/nicknames": "*",
+        "flarum/pusher": "*",
+        "flarum/statistics": "*",
+        "flarum/sticky": "*",
+        "flarum/subscriptions": "*",
+        "flarum/suspend": "*",
+        "flarum/tags": "*",
+        "fof/analytics": "^1.0",
+        "fof/disposable-emails": "^1.0",
+        "fof/doorman": "^1.0",
+        "fof/drafts": "^1.0",
+        "fof/filter": "^1.0",
+        "fof/follow-tags": "^1.0",
+        "fof/formatting": "^1.0",
+        "fof/forum-statistics-widget": "^1.0",
+        "fof/gamification": "^1.0",
+        "fof/github-autolink": "^1.0",
+        "fof/ignore-users": "^1.0",
+        "fof/impersonate": "^1.0",
+        "fof/links": "^1.0",
+        "fof/oauth": "^1.1",
+        "fof/pages": "^1.0",
+        "fof/reactions": "^1.0",
+        "fof/recaptcha": "^1.0",
+        "fof/sitemap": "^1.0",
+        "fof/socialprofile": "^1.1",
+        "fof/stopforumspam": "^1.1",
+        "fof/terms": "^1.1",
+        "fof/user-directory": "^1.0",
+        "ianm/syndication": "^1.0",
+        "michaelbelgium/flarum-discussion-views": "^7.1",
+        "pipecraft/flarum-ext-id-slug": "^1.1",
+        "v17development/flarum-seo": "^1.8"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true
+    }
+}
