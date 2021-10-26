@@ -18,6 +18,8 @@ services:
       FLARUM_ADMIN_PASS: ${FLARUM_ADMIN_PASS}
       FLARUM_ADMIN_MAIL: ${FLARUM_ADMIN_MAIL}
       FLARUM_TITLE: ${FLARUM_TITLE}
+      UID: ${UID:-991}
+      GID: ${GID:-991}
       VIRTUAL_HOST: ${VIRTUAL_HOST:-example.com}
       LETSENCRYPT_HOST: ${LETSENCRYPT_HOST}
     restart: always
