@@ -50,7 +50,7 @@
         "fof/follow-tags": "^1.0",
         "fof/formatting": "^1.0",
         "fof/forum-statistics-widget": "^1.0",
-        "fof/gamification": "^1.0",
+        "fof/gamification": "^1.2",
         "fof/github-autolink": "^1.0",
         "fof/ignore-users": "^1.0",
         "fof/impersonate": "^1.0",
@@ -63,11 +63,16 @@
         "fof/socialprofile": "^1.1",
         "fof/stopforumspam": "^1.1",
         "fof/terms": "^1.1",
-        "fof/user-directory": "^1.0",
+        "fof/user-directory": "^1.1",
         "ianm/syndication": "^1.0",
+        "justoverclock/christmas-snow-effect": "*",
+        "justoverclock/flarum-ext-hashtag": "^0.2.1",
+        "justoverclock/flarum-ext-keywords": "^1.9",
         "michaelbelgium/flarum-discussion-views": "^7.1",
         "pipecraft/flarum-ext-id-slug": "^1.1",
-        "v17development/flarum-seo": "^1.8"
+        "the-turk/flarum-stickiest": "^2.0",
+        "v17development/flarum-seo": "^1.8",
+        "zequeen/acgembed-remastered": "^1.1"
     },
     "config": {
         "preferred-install": "dist",
